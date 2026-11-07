@@ -124,3 +124,7 @@ img { max-width: 100%; height: auto; }
 .post-list h2 { font-family: var(--font-verse); color: var(--primary); margin: 0 0 4px; font-size: 1.3rem; }
 .post-list p { margin: 8px 0 0; color: var(--text-muted); }
 .post-list .byline { margin-top: 0; }
+
+.article > ul, .article > ol { font-family: var(--font-verse); font-size: 1.1rem; line-height: 1.65; padding-left: 1.4em; }
+.article li { margin-bottom: 8px; }
+.article h3 { font-size: 1.1rem; margin: 1.5em 0 0.4em; }
